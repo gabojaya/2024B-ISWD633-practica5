@@ -54,3 +54,6 @@ docker compose ps
 docker compose down
 ```
 ![image](https://github.com/user-attachments/assets/5781eaf2-8369-4247-a006-1cbed3cd794f)
+
+![image](https://github.com/user-attachments/assets/c1d2b32f-6e41-4a07-81f6-d7c4379262fb)
+
