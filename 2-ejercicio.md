@@ -7,7 +7,9 @@ Configurar SonarQube utilizando Docker Compose, para esto necesitas dos servicio
 - Los dos servicios deben pertenecer a una red de tipo bridge
 - Investiga cuáles son los volúmenes necesarios para cada servicio
 - Investiga cuáles son las variables de entorno para que los servicios funcionen de manera adecuada.
-  
+
+  ![image](https://github.com/user-attachments/assets/63bb3ad5-2476-425d-abf6-70c98bcef3b1)
+
 # Una vez creado tu archivo .yaml realiza la respectiva prueba 
 
 ![image](https://github.com/user-attachments/assets/df4cb1a0-7f0f-40d9-a5f6-51c70d836406)
